@@ -1,0 +1,1 @@
+python>=3.6  # Tkinter works best with Python 3.6+
